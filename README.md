@@ -1,6 +1,6 @@
 # SlugTerra
 
-There's no doubt that most  of our childhood was spent watching SlugTerra mostly on DisneyXD, we have seen it all and experienced it all. With Hacktoberfest 2020 coming up and being one of the people who would participate for the very first time, I decided to create this repository that's actually a very basic web-page that lets the user view and add their favourite pokemons. Show your love for slug terra here .
+There's no doubt that most  of our childhood was spent watching SlugTerra mostly on DisneyXD, we have seen it all and experienced it all. With Hacktoberfest 2020 coming up and being one of the people who would participate for the very first time, I decided to create this repository that's actually a very basic web-page that lets the user view and add their favourite Slugs. Show your love for slug terra here .
 
 You can find all types Slugs on  https://slugterra.fandom.com/wiki/Slugs  and also on https://www.pinterest.ca/XyroXD/slugterra-slugs-and-stuff/ 
 
